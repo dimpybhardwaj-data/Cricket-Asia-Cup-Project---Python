@@ -1,8 +1,6 @@
 🏏 Cricket Asia Cup Data Analysis
 
-📌 Project Overview
-This project analyzes Asia Cup cricket matches using Python and Pandas.
-The dataset contains 254 matches with 20 columns of match statistics (runs, wickets, toss results, venues, player awards, etc.).
+📌 Project Overview : This project analyzes Asia Cup cricket matches using Python and Pandas. The dataset contains 254 matches with 20 columns of match statistics (runs, wickets, toss results, venues, player awards, etc.).
 
 The goal is to uncover team‑level, player‑level, and match‑level insights — answering questions like:
 
